@@ -34,8 +34,6 @@
       <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
       <br>CSS
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
       <br>React
@@ -102,8 +100,6 @@
       <img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="Azure" />
       <br>Azure
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=jenkins" width="48" height="48" alt="Jenkins" />
       <br>Jenkins
