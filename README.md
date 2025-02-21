@@ -122,4 +122,11 @@
   </tr>
 </table>
 
+## 🔥 GitHub Streak Stats
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=Nitisrigirkala&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
+  </a>
+</p>
+
 
