@@ -16,7 +16,6 @@
 
 
 ## ⚙️ Languages and Tools:
-<h3 align="left">🚀 Languages & Frameworks:</h3>
 <table>
   <tr>
     <td align="center" width="96">
@@ -53,8 +52,6 @@
     </td>
   </tr>
 </table>
-
-<h3 align="left">🛠️ Backend & Databases:</h3>
 <table>
   <tr>
     <td align="center" width="96">
@@ -91,8 +88,6 @@
     </td>
   </tr>
 </table>
-
-<h3 align="left">☁️ DevOps & Tools:</h3>
 <table>
   <tr>
     <td align="center" width="96">
