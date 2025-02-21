@@ -16,6 +16,7 @@
 
 
 ## ⚙️ Languages and Tools:
+<h3 align="left">🚀 Languages & Frameworks:</h3>
 <table>
   <tr>
     <td align="center" width="96">
@@ -50,14 +51,12 @@
       <img src="https://skillicons.dev/icons?i=angular" width="48" height="48" alt="Angular" />
       <br>Angular
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
-      <br>Vue.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
-      <br>Bootstrap
-    </td>
+  </tr>
+</table>
+
+<h3 align="left">🛠️ Backend & Databases:</h3>
+<table>
+  <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
       <br>Node.js
@@ -66,16 +65,6 @@
       <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express.js" />
       <br>Express.js
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="GraphQL" />
-      <br>GraphQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=kafka" width="48" height="48" alt="Kafka" />
-      <br>Kafka
-    </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
       <br>MongoDB
@@ -92,6 +81,20 @@
       <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
       <br>Redis
     </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="GraphQL" />
+      <br>GraphQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=kafka" width="48" height="48" alt="Kafka" />
+      <br>Kafka
+    </td>
+  </tr>
+</table>
+
+<h3 align="left">☁️ DevOps & Tools:</h3>
+<table>
+  <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
       <br>Docker
@@ -124,13 +127,6 @@
       <img src="https://skillicons.dev/icons?i=selenium" width="48" height="48" alt="Selenium" />
       <br>Selenium
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-      <br>Postman
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" />
-      <br>Flask
-    </td>
   </tr>
 </table>
+
