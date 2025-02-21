@@ -1,10 +1,17 @@
 <h1 align="center">Hi 👋, I'm Nitisri Girkala</h1>
 <h3 align="center">A passionate Full Stack developer</h3>
 
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">📫 Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nitisri-girkala/" target="blank"></a>
+  <a href="https://www.linkedin.com/in/nitisri-girkala/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Nitisrigirkala" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 ## ⚙️ Languages and Tools:
