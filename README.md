@@ -16,6 +16,7 @@
 
 
 ## ⚙️ Languages and Tools:
+<h3 align="left">⚙️ Languages and Tools:</h3>
 <table>
   <tr>
     <td align="center" width="96">
@@ -51,8 +52,6 @@
       <br>Angular
     </td>
   </tr>
-</table>
-<table>
   <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
@@ -87,8 +86,6 @@
       <br>Kafka
     </td>
   </tr>
-</table>
-<table>
   <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
@@ -124,4 +121,5 @@
     </td>
   </tr>
 </table>
+
 
