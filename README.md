@@ -131,4 +131,19 @@
   </a>
 </p>
 
+## 🐍 A Snake That Eats Contributions:
+<p align="center">
+  <img src="https://github.com/Nitisrigirkala/Nitisrigirkala/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
 
+
+## 🎯 Random Dev Quote:
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+</p>
+
+
+
+## 🌟 Thank You for Visiting!
+*Every new visitor is part of my coding journey!* 😃  
+⭐ **Don't forget to star my repos!**  
