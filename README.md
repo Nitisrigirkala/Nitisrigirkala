@@ -14,6 +14,9 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nitisrigirkala&label=Profile%20Views&color=blue&style=plastic" alt="Profile Views" />
+</p>
 
 ## ⚙️ Languages and Tools:
 <table>
