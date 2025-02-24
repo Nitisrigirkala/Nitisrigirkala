@@ -126,25 +126,8 @@
 
 ## 🚀 GitHub Activity
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=nitisrigirkala&show_icons=true&locale=en" alt="nitisrigirkala" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nitisrigirkala&langs_count=8&show_icons=true&locale=en&layout=compact" alt="nitisrigirkala" /></p>
-<br/>
 <p>
   <img src="https://streak-stats.demolab.com?user=nitisrigirkala&theme=merco&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak Stats" />
-</p>
-
-
-## 🚀 GitHub Stats  
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Nitisrigirkala&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  </a>
-</p>
-
-## 🏆 Most Used Languages  
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitisrigirkala&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-  </a>
 </p>
 
 ## 🏆 GitHub Trophies  
