@@ -125,12 +125,13 @@
 </table>
 
 ## 🚀 GitHub Activity
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=charvibasappa&show_icons=true&locale=en" alt="charvibasappa" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=charvibasappa&langs_count=8&show_icons=true&locale=en&layout=compact" alt="charvibasappa" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=nitisrigirkala&show_icons=true&locale=en" alt="nitisrigirkala" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nitisrigirkala&langs_count=8&show_icons=true&locale=en&layout=compact" alt="nitisrigirkala" /></p>
 <br/>
 <p>
-  <img src="https://streak-stats.demolab.com?user=CharviBasappa&theme=merco&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=nitisrigirkala&theme=merco&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak Stats" />
 </p>
+
 
 ## 🚀 GitHub Stats  
 <p align="center">
