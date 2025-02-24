@@ -124,13 +124,13 @@
   </tr>
 </table>
 
-## 🔥 GitHub Streak Stats  
-<p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.vercel.app/?user=Nitisrigirkala&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
-  </a>
+## 🚀 GitHub Activity
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=charvibasappa&show_icons=true&locale=en" alt="charvibasappa" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=charvibasappa&langs_count=8&show_icons=true&locale=en&layout=compact" alt="charvibasappa" /></p>
+<br/>
+<p>
+  <img src="https://streak-stats.demolab.com?user=CharviBasappa&theme=merco&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak Stats" />
 </p>
-
 
 ## 🚀 GitHub Stats  
 <p align="center">
