@@ -131,6 +131,27 @@
   </a>
 </p>
 
+## 🚀 GitHub Stats  
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Nitisrigirkala&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  </a>
+</p>
+
+## 🏆 Most Used Languages  
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitisrigirkala&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  </a>
+</p>
+
+## 🏆 GitHub Trophies  
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Nitisrigirkala&theme=radical&no-frame=true" alt="GitHub Trophies" />
+  </a>
+</p>
+
 
 ## 🌟 Thank You for Visiting!
 *Every new visitor is part of my coding journey!* 😃  
