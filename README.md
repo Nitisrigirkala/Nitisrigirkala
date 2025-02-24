@@ -124,10 +124,10 @@
   </tr>
 </table>
 
-## 🔥 GitHub Streak Stats  
+## 📊 GitHub Contributions Graph
 <p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.vercel.app/?user=Nitisrigirkala&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nitisrigirkala&theme=radical&hide_border=true" alt="GitHub Activity Graph" />
   </a>
 </p>
 
