@@ -130,12 +130,6 @@
   <img src="https://streak-stats.demolab.com?user=nitisrigirkala&theme=merco&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak Stats" />
 </p>
 
-## 🏆 GitHub Trophies  
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Nitisrigirkala&theme=radical&no-frame=true" alt="GitHub Trophies" />
-  </a>
-</p>
 
 
 ## 🌟 Thank You for Visiting!
